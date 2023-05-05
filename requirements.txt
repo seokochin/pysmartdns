@@ -1,0 +1,3 @@
+asgiref==3.6.0
+-e git+https://github.com/django/django.git@7eee1dca420ee7c4451d24cd32fa08aed0dcbb36#egg=Django
+sqlparse==0.4.3
